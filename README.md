@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 안녕하세요! 실무형 AI 개발자를 꿈꾸는 조재호입니다.
 
-<!--
-**ChoJaeho-stack/ChoJaeho-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+복잡한 데이터를 분석하여 명확한 해답을 찾아내는 과정에 매력을 느낍니다. 
+단순한 이론을 넘어, 실제 작동하는 모델을 구현하고 정확도를 증명하는 개발자가 되고자 합니다.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 기술 스택 (Tech Stack)
+**Python** | **PyTorch** | **Computer Vision** | **Deep Learning** 
+
+---
+
+### ✨ 주요 프로젝트
+
+#### 🎨 AI 캐릭터 스타일 자동 분류 모델 (Anime / Chibi)
+* **내용:** 다양한 캐릭터 이미지를 AI가 분석하여 스타일(애니메이션, 치비 등)을 자동으로 판별하는 프로젝트입니다.
+* **성과:** PyTorch 기반 딥러닝 모델을 통해 **최종 테스트 정확도 99.99%**를 달성했습니다.
+* **핵심 역량:** - 직접 라벨링한 데이터셋 구축 및 전처리 수행
+  - CNN 기반 이미지 분류 모델 학습 및 최적화
+  - 코드 실행 결과 및 판독 리포트 자동 생성 로직 구현
+* **[프로젝트 GitHub 저장소 방문하기](https://github.com/ChoJaeho-stack/My-AI-Style-Classifier)**
+
+---
+
+### 🌱 관심 분야 및 목표
+* **딥러닝 기반 이미지 분석:** 사물 및 스타일 인식을 통한 자동화 솔루션 개발
+* **데이터 엔지니어링:** AI 모델의 성능을 극대화하는 정교한 데이터셋 구축
+* **성장 동력:** 매일 새로운 코드를 작성하고 문제를 해결하며 얻는 성취감
+
+---
+
+### 📧 연락처 및 기타 링크
+* **Email:** Gnska717@naver.com
+* **GitHub Home:** [https://github.com/ChoJaeho-stack](https://github.com/ChoJaeho-stack)
+
+---
+오늘의 노력이 내일의 실력이 된다고 믿습니다. 감사합니다!
